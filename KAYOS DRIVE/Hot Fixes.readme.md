@@ -7,7 +7,14 @@ instead of the proper display of color and value Corisponding to the time in the
  adjust everything and showcase, Its proper values and how much better it looks, compared with grass, and overall world / in game look!
 
 
-### THIS IMAGE IS POST, THE FOLLOWING IMAGE WILL BE PRE!
+### COMPARE
+> [!Warning]
+> PRE SHIP
+
+
+
+<img width="1834" height="612" alt="Image" src="https://github.com/user-attachments/assets/26e07765-e1e7-4d64-980c-f1446eb23403" />
+
 
 > [!Caution]
 > POST SHIPMENT OF PATCH!
@@ -15,14 +22,6 @@ instead of the proper display of color and value Corisponding to the time in the
 <img width="1751" height="661" alt="Image" src="https://github.com/user-attachments/assets/821dbd1e-bd50-44d9-a9a1-96a04c04d28f" />
 
 
-
-
-> [!Warning]
-> PRE SHIP
-
-
-
-<img width="1834" height="612" alt="Image" src="https://github.com/user-attachments/assets/26e07765-e1e7-4d64-980c-f1446eb23403" />
 
 
 > The landscape apears less foggy, and Veiwable, with the brightness toned way down. Most accurate to the figment todm values Stated before hand 1:1
