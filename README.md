@@ -9,3 +9,6 @@ If You have any questions, Please ask!
 
 > [!NOTE]
 > Any assets Updates and Information provided here is private ; we are not obligated to providing methods, tools or assets which break Fortnite TOS, or Game Rules Following Unreal editor for fortnite / Unreal Engine 7. 
+
+>[!WARNING]
+> Failure to comply, Will get you ban from being allowed to be part of the server!
