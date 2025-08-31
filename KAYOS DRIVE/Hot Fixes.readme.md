@@ -25,3 +25,4 @@ instead of the proper display of color and value Corisponding to the time in the
 <img width="1834" height="612" alt="Image" src="https://github.com/user-attachments/assets/26e07765-e1e7-4d64-980c-f1446eb23403" />
 
 
+> The landscape apears less foggy, and Veiwable, with the brightness toned way down. Most accurate to the figment todm values Stated before hand 1:1
