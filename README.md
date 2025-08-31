@@ -27,3 +27,50 @@ If You have any questions, Please ask!
 
 
 # WHATS NEW!
+
+
+
+>  - This week **DOGS -DRIVE** Has recived a large Update adding the figment ( CH1 S5 ( V~37.10 ) )  Live in game event VFX & Assets Into His Drive. This Included The following Assets.
+
+
+
+  ## CUBE & VFX
+containing content from the ogiginal Cube way back in 2018, up to the current running og OGS5, With the Red Cube `REVIN` *Offical name : By **FORTNITE***
+
+
+
+
+> [!Caution]
+>  CASCADES CONVERTED
+   - Niagara_Effects/Cube/P_Cube_Wave_Converted
+   - Niagara_Effects/Cube/P_Cube_Wave_Red_Converted
+   - Niagara_Effects/Cube/P_Cube_Printing_Red_Converted
+   - Niagara_Effects/Cube/P_Cube_Spawn_Red_Converted
+ > [!Caution]
+>  CASCADES CONVERTED
+   - Niagara_Effects/Rift/P_NightNight_Rift_Exit_Telegraph_Additional_Converted
+  - Niagara_Effects/Rift/P_NightNight_RiftEnter_Loop_Converted
+   - Niagara_Effects/Rift/P_NightNight_RiftEnter_ShardsOnly_Converted
+   - Niagara_Effects/Rift/P_NightNight_RiftExit_ShardsOnly_Converted
+> [!caution]
+> CASECADES CONVERTED
+   - Niagara_Effects/Zero_Point/P_Junior_ZP_HugeExplosion_Converted
+> [!Note]
+> BLUEPRINTS ADDED
+  - Props/Cube/Cube_Runes/Figment/BGA_Cube_Figment_Area_Effect
+  - Props/Rift/BGA_RiftPortal_Figment_Cube
+> [!Tip]
+> MATERIALS ADDED
+  - Props/Cube/Cube/Figment/MI_Cube_Red
+  - Props/Cube/Cube_Runes/Figment/Materials/MI_Figment_Cube_Runes_A-H
+  - Props/Cube/Cube_Runes/Figment/Materials/M_DFHeight_Ins04-7_Red
+
+
+
+# KAYOS DRIVE 
+While We Were progressing, The drive has been Paused While we go back fix major bugs, Tweak Values, and Make sure we did not miss anything. Youll be able to keep an eye on the drive and get notified when it comes back online[HERE!](https://stormloungestatuspage.statuspage.io/)
+> [!Caution]
+> THE DRIVE IS DOWN / OFFLINE FOR MAINTENANCE AT THIS MOMENT. PLEASE CHECK THE STATUS PAGE FOR UPDATES !
+
+The Most Recent Update 5.10 Brought Cube Vfx from OG [ AKA : Figment ], And more is planned in the future.
+
