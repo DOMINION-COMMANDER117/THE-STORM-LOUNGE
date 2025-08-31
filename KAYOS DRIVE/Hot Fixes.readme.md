@@ -12,7 +12,7 @@ instead of the proper display of color and value Corisponding to the time in the
 > [!Caution]
 > POST SHIPMENT OF PATCH!
 
-<img width="1772" height="665" alt="Image" src="https://github.com/user-attachments/assets/69fad3bf-daf7-44bb-ae2c-83bf1f549f52" />
+<img width="1751" height="661" alt="Image" src="https://github.com/user-attachments/assets/821dbd1e-bd50-44d9-a9a1-96a04c04d28f" />
 
 
 
