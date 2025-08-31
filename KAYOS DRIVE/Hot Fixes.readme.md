@@ -25,3 +25,7 @@ instead of the proper display of color and value Corisponding to the time in the
 
 
 > The landscape apears less foggy, and Veiwable, with the brightness toned way down. Most accurate to the figment todm values Stated before hand 1:1
+
+
+> [!important]
+> its Very Important to check during the porting process that you copy every value, Even in places you dont expect to matter. Every value is the way it is for a reason. It must be copied, dont be lazy and mess up like this!
