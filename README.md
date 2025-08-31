@@ -14,3 +14,16 @@ If You have any questions, Please ask!
 
 >[!WARNING]
 > Failure to comply, Will get you ban from being allowed to be part of the server!
+
+
+
+
+
+
+
+
+
+<img width="1920" height="300" alt="Image" src="https://github.com/user-attachments/assets/d68bbb42-399f-4d97-86dc-505ae3881640" />
+
+
+# WHATS NEW!
